@@ -1,0 +1,74 @@
+103 - dirt
+269 - bottom side half stone, half grass
+270 - left side half stone, half grass, 
+274 -  half stone, half grass, rounded corner upper left
+275 -  half stone, half grass, rounded corner upper right
+278 -  all stone, little grass corner on bottom right
+279 -  all stone, little grass corner on bottom left
+280 - dirt inside houses
+351 - standing underground dirt
+352 - standing underground dirt
+353 - standing underground dirt
+354 - standing underground dirt with little rocks
+355 - underground muddy floor
+370 - hole with ladder
+371 - dirt wall on bottom rocks
+372 - dirt wall on top
+373 - dirt wall on left half
+374 - dirt wall on left full
+375 - dirt wall on upper left corner
+376 - dirt wall on full
+377 - dirt wall on full
+378 - firt wall on full
+379
+380
+381
+382
+383
+384
+405
+406
+407
+408
+409
+410
+424
+427
+428
+429
+431
+432
+433
+446
+468
+479
+493
+724
+804
+805
+806
+807
+918
+919
+920
+926
+927
+929
+1284
+4405
+4407
+4408
+4422
+4526
+4570
+4608
+4618
+4691
+4695
+4697
+4698
+4749
+4751
+4753
+4754
+4755
