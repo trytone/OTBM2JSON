@@ -1,0 +1,27 @@
+103,280,351,352,353,354,355,804,806,807 : step dirt
+269,270,274,275,278,279 : grass on half tile, stone tile rest
+805 : grass on half tile, step dirt rest
+370,408,409,427,428 : trapdoor / ladder hatch
+410,429,432,433 : trapdoor / marble stairs hatch
+479 : trapdoor / rock stairs hatch
+371,372,373,374,375,376,377,378,379,380,381,382 : dirt wall
+383 : open hole in ground with stones
+468 : closed hole in ground with stones
+384 : rope place
+405,446 : wooden floor ( panele )
+406 : white marble floor ( biały marmur )
+407 : black marble floor ( czarny marmur )
+424 : stone tile ( kamienna płytka )
+431 : stone floor ( szara kostka brukowa )
+493,4608,4618 : water 
+724 : stone tile ( kamienie połączone jak kostka brukowa )
+918,919 : moutain rock ( kamienna góra )
+920 : flat grass roof ( dach z siana )
+926 : tiled roof left ( dachówka )
+927 : tiled roof right ( dachówka )
+929 : tiled roof center ( dachówka ) 
+1284 : drawbridge ( drewno do mostków )
+4405,4407,4408,4422 : inside rock floor ( podłoga w wydrążonej górze )
+4526 : grass tile ( trawa ) 
+4570 : stone floor ( kamienista droga )
+4691,4695,4697,4698,4749,4751,4753,4754,4755 : swamp 
